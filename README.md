@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome! ✨
+
+> I care deeply about writing code that helps people, whether that be the end user or the developers I work with.
+
+My career began with [Neontribe](https://neontribe.co.uk/), a digital agency based in Norwich, working on various projects centred around tech-for-good space. 
+
+Right now I'm part of a team at [the Guardian](https://github.com/guardian) whose mission is to develop, maintain, and advocate for best practice around the client side [tooling](https://github.com/guardian/libs) and [infrastructure](https://github.com/guardian/csnx) across the organisation. When I have time I also love to contribute to [Source](https://github.com/guardian/source) our open source design system. Before that I was focused on 
+
+Outside of work, I help to maintain the [Toilet Map](https://github.com/public-convenience-ltd/toiletmap), a project dedicated to helping people find a toilet whilst they're on the move.
 
 <!--
 **ob6160/ob6160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
