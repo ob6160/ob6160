@@ -16,13 +16,12 @@ Outside of work, I help to maintain the [Toilet Map](https://github.com/public-c
 
 ---
 
-olliethinks)
 
 
 ### other stuff
 
 - Pronouns: he/him
-- Feel free to reach out via twitter (@
+- Feel free to reach out via twitter (@olliethinks)
 
 <!--
 **ob6160/ob6160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
