@@ -1,12 +1,15 @@
-### Hello there 
+### Hello there
+
 
 [![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/olliethinks)
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/ob6160)
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://www.linkedin.com/in/oliver-barnwell-b5046173/)
 
+> I care deeply about writing code that helps people, whether that be the end user or the developers I work with.
+
 ---
 
-> I care deeply about writing code that helps people, whether that be the end user or the developers I work with.
+_A little about me:_
 
 My career began with [Neontribe](https://neontribe.co.uk/), a digital agency based in Norwich, working on various projects centred around doing tech-for-good. 
 
