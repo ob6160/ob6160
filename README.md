@@ -1,4 +1,4 @@
-### Welcome, I'm Ollie! ✨
+### Hello there 
 
 [![Follow on Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2.svg)](https://twitter.com/olliethinks)
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-6cc644.svg)](https://github.com/sponsors/ob6160)
