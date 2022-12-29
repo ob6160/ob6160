@@ -22,7 +22,7 @@ Outside of work, I help to maintain the [Toilet Map](https://github.com/public-c
 ### extras
 
 - Pronouns: he/him
-- Feel free to reach out via twitter (@olliethinks)
+- Feel free to reach out via twitter ([@olliethinks](https://twitter.com/olliethinks))
 
 <!--
 **ob6160/ob6160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
