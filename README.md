@@ -15,6 +15,7 @@ Right now I'm part of a team at [the Guardian](https://github.com/guardian) whos
 Outside of work, I help to maintain the [Toilet Map](https://github.com/public-convenience-ltd/toiletmap), a project dedicated to helping people find a toilet whilst they're on the move and also put time into [various](https://github.com/ob6160/daynotes) [side](https://github.com/ob6160/caffeine) [projects](https://github.com/ob6160/html_parser_renderer).
 </details>
 
+Follow to keep in touch 🙂
 
 ### extras
 
