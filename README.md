@@ -23,7 +23,7 @@ Follow to keep in touch 🙂
 ### extras
 
 - Pronouns: he/him
-- Feel free to reach out via twitter ([@olliethinks](https://twitter.com/olliethinks))
+- Feel free to reach out via Bluesky ([@olliethinks](https://bsky.app/profile/olliethinks.bsky.social))
 
 
 
